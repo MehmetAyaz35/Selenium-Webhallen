@@ -40,10 +40,3 @@ The script outputs the names of the laptops found and the total count of product
 ## Note
 
 This script is intended for educational purposes and personal use. Please respect Webhallen's terms of service regarding automation and web scraping.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
