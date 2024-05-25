@@ -13,9 +13,9 @@ Before running this script, ensure you have the following installed:
 
 1. **Python**: Download and install Python from [python.org](https://www.python.org/downloads/).
 2. **Selenium**: Install Selenium using pip:
-
+```bash
 pip install selenium
-
+```
 3. **ChromeDriver**: Download ChromeDriver from [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads). Ensure it’s in your PATH or the same directory as your script.
 
 ## Usage
